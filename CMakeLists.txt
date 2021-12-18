@@ -8,20 +8,20 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(ToiUuPhanMemNhung main.cpp)
 
-add_executable(bai1_goc bai1_goc.c)
+add_executable(bai1_goc.c)
 
-add_executable(bai2_goc bai2_goc.c)
+add_executable(bai2_goc.c)
 
-add_executable(bai3_goc bai3_goc.c)
+add_executable(bai3_goc.c)
 target_link_libraries(bai3_goc m)
 
-add_executable(bai4_goc bai4_goc.c)
+add_executable(bai4_goc.c)
 target_link_libraries(bai4_goc m)
 
-add_executable(bai5_goc bai5_goc.c)
+add_executable(bai5_goc.c)
 target_link_libraries(bai5_goc m)
 
-add_executable(bai6_goc bai6_goc.c)
+add_executable(bai6_goc.c)
 target_link_libraries(bai6_goc m)
 
 add_executable(bai7_goc bai7_goc.c)
@@ -35,25 +35,25 @@ add_executable(bai10_goc bai10_goc.c)
 target_link_libraries(bai10_goc m)
 
 
-add_executable(bai1_toiuu bai1_toiuu.c)
+add_executable(bai1_toiuu.c)
 
-add_executable(bai2_toiuu bai2_toiuu.c)
+add_executable(bai2_toiuu.c)
 
-add_executable(bai3_toiuu bai3_toiuu.c)
+add_executable(bai3_toiuu.c)
 target_link_libraries(bai3_toiuu m)
 
-add_executable(bai4_toiuu bai4_toiuu.c)
+add_executable(bai4_toiuu.c)
 target_link_libraries(bai4_toiuu m)
 
-add_executable(bai5_toiuu bai5_toiuu.c)
+add_executable(bai5_toiuu.c)
 target_link_libraries(bai5_toiuu m)
 
-add_executable(bai6_toiuu bai6_toiuu.c)
+add_executable(bai6_toiuu.c)
 target_link_libraries(bai6_toiuu m)
 
 add_executable(bai7_toiuu bai7_toiuu.c)
 
-add_executable(bai8_toiuu bai8_toiuu.c)
+add_executable(bai8_toiuu.c)
 
 add_executable(bai9_toiuu bai9_toiuu.c)
 target_link_libraries(bai9_toiuu m)
