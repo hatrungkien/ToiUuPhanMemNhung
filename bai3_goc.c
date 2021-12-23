@@ -40,4 +40,5 @@ int main() {
     clock_t end = clock();
     double time_spent = (double)(end - begin) / CLOCKS_PER_SEC;
     printf("\nExe time: %f\n", time_spent);
-    return 0;}
+    return 0;
+}

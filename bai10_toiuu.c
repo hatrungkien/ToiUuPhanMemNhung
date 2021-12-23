@@ -47,3 +47,10 @@ int main() {
     return 0;
 }
 
+//space op
+//Data Initialization at Declaration
+//Data range op
+//Custom op
+//loop condition op
+
+

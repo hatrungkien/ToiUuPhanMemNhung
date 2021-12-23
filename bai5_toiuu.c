@@ -35,8 +35,8 @@ int main() {
     printf("\nExe time: %f\n", time_spent);
     return 0;
 }
-//space op
-//time op
+//Space optimize
+//Time optimize
 //Data Initialization at Declaration
 //Data Arrangement
-//loop condition op
+//Loop condition optimize
