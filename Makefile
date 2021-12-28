@@ -137,5 +137,6 @@ clean:
 	rm *.o
 	rm *.elf
 
+#qemu-arm -L /usr/arm-linux-gnueabi/ bai1_goc_arm.elf
 
 
